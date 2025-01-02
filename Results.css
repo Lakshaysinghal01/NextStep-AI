@@ -1,0 +1,14 @@
+/* Results.css */
+.results {
+    max-width: 600px;
+    margin: 2rem auto;
+  }
+  .results ul {
+    list-style: none;
+    padding: 0;
+  }
+  .results li {
+    padding: 0.5rem;
+    border-bottom: 1px solid #ddd;
+  }
+  

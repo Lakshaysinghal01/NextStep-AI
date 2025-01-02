@@ -1,0 +1,17 @@
+/* Resources.css */
+.resources {
+    max-width: 600px;
+    margin: 2rem auto;
+  }
+  .resources ul {
+    list-style: none;
+    padding: 0;
+  }
+  .resources li {
+    margin: 0.5rem 0;
+  }
+  .resources li a {
+    color: #0044cc;
+    text-decoration: none;
+  }
+  
