@@ -17,6 +17,9 @@ For any inquiries or feedback, please contact us at lakshaysinghal2909@gmail.com
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
+## Screenshots
+HomePage 
+![Home Page](homepage.png.png)
 
 ## Deployment
 
