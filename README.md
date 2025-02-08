@@ -1,4 +1,3 @@
-# nextstep-ai
 # NextStep AI - Career Guidance System 🎯
 
 <div align="center">
